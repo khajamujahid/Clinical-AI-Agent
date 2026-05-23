@@ -98,4 +98,4 @@ The frontend will query the FastAPI backend, process the vector search, and retu
 ⚠️ Disclaimer
 This is a portfolio engineering project. All patient data within the chroma_db is 100% synthetic and programmatically generated. This AI is not intended to provide real medical advice, diagnosis, or treatment.
 
-Built with passion by **Khaja mujahiddin**
+Built with passion by Khaja mujahiddin
