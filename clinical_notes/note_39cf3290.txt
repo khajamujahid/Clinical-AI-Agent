@@ -1,0 +1,13 @@
+
+    Patient ID: 39cf3290
+    Date of Birth: 1988-03-05
+    Date of Visit: 2026-03-15
+    
+    Chief Complaint: Patient presents with ongoing management of Atrial Fibrillation.
+    
+    Assessment & Plan:
+    1. Atrial Fibrillation: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Bush
+    

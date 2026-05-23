@@ -1,0 +1,13 @@
+
+    Patient ID: af8877f0
+    Date of Birth: 1973-06-25
+    Date of Visit: 2026-02-09
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Salazar
+    

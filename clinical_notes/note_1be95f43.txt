@@ -1,0 +1,13 @@
+
+    Patient ID: 1be95f43
+    Date of Birth: 1975-04-03
+    Date of Visit: 2026-01-13
+    
+    Chief Complaint: Patient presents with ongoing management of Atrial Fibrillation.
+    
+    Assessment & Plan:
+    1. Atrial Fibrillation: Continue current care plan.
+    2. Prescriptions: Refill Ibuprofen 10mg daily.
+    
+    Provider: Dr. Kramer
+    

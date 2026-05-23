@@ -1,0 +1,13 @@
+
+    Patient ID: 6aa16c9e
+    Date of Birth: 1946-11-30
+    Date of Visit: 2026-02-22
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Lisinopril 10mg daily.
+    
+    Provider: Dr. Gray
+    

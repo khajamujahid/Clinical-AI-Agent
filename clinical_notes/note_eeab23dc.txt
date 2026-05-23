@@ -1,0 +1,13 @@
+
+    Patient ID: eeab23dc
+    Date of Birth: 1987-07-02
+    Date of Visit: 2026-04-04
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Ibuprofen 10mg daily.
+    
+    Provider: Dr. Goodwin
+    

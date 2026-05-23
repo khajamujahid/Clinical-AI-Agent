@@ -1,0 +1,13 @@
+
+    Patient ID: 20665c75
+    Date of Birth: 1951-10-27
+    Date of Visit: 2026-03-20
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Amlodipine 10mg daily.
+    
+    Provider: Dr. Zimmerman
+    

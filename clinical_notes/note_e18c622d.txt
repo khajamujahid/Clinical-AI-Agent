@@ -1,0 +1,13 @@
+
+    Patient ID: e18c622d
+    Date of Birth: 1938-01-30
+    Date of Visit: 2026-01-17
+    
+    Chief Complaint: Patient presents with ongoing management of Asthma.
+    
+    Assessment & Plan:
+    1. Asthma: Continue current care plan.
+    2. Prescriptions: Refill Amlodipine 10mg daily.
+    
+    Provider: Dr. Mathis
+    

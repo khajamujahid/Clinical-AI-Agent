@@ -1,0 +1,13 @@
+
+    Patient ID: cffab05f
+    Date of Birth: 1959-03-29
+    Date of Visit: 2026-01-31
+    
+    Chief Complaint: Patient presents with ongoing management of Asthma.
+    
+    Assessment & Plan:
+    1. Asthma: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Shaffer
+    

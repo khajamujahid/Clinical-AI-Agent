@@ -1,0 +1,13 @@
+
+    Patient ID: 7cdd0622
+    Date of Birth: 1956-06-27
+    Date of Visit: 2026-03-13
+    
+    Chief Complaint: Patient presents with ongoing management of Type 2 Diabetes.
+    
+    Assessment & Plan:
+    1. Type 2 Diabetes: Continue current care plan.
+    2. Prescriptions: Refill Metformin 10mg daily.
+    
+    Provider: Dr. Collier
+    

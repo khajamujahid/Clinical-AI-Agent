@@ -1,0 +1,13 @@
+
+    Patient ID: 5917119a
+    Date of Birth: 1948-09-20
+    Date of Visit: 2026-01-10
+    
+    Chief Complaint: Patient presents with ongoing management of Atrial Fibrillation.
+    
+    Assessment & Plan:
+    1. Atrial Fibrillation: Continue current care plan.
+    2. Prescriptions: Refill Amlodipine 10mg daily.
+    
+    Provider: Dr. Bean
+    

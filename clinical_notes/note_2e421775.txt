@@ -1,0 +1,13 @@
+
+    Patient ID: 2e421775
+    Date of Birth: 1991-01-23
+    Date of Visit: 2026-02-25
+    
+    Chief Complaint: Patient presents with ongoing management of Osteoarthritis.
+    
+    Assessment & Plan:
+    1. Osteoarthritis: Continue current care plan.
+    2. Prescriptions: Refill Metformin 10mg daily.
+    
+    Provider: Dr. Murphy
+    

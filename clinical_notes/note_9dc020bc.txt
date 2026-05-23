@@ -1,0 +1,13 @@
+
+    Patient ID: 9dc020bc
+    Date of Birth: 1962-07-02
+    Date of Visit: 2026-01-09
+    
+    Chief Complaint: Patient presents with ongoing management of Osteoarthritis.
+    
+    Assessment & Plan:
+    1. Osteoarthritis: Continue current care plan.
+    2. Prescriptions: Refill Metformin 10mg daily.
+    
+    Provider: Dr. Hayes
+    

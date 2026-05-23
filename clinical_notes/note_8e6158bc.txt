@@ -1,0 +1,13 @@
+
+    Patient ID: 8e6158bc
+    Date of Birth: 1993-02-28
+    Date of Visit: 2026-01-28
+    
+    Chief Complaint: Patient presents with ongoing management of Type 2 Diabetes.
+    
+    Assessment & Plan:
+    1. Type 2 Diabetes: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Hurst
+    

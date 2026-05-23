@@ -1,0 +1,13 @@
+
+    Patient ID: 41a49906
+    Date of Birth: 1981-02-26
+    Date of Visit: 2026-03-24
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Amlodipine 10mg daily.
+    
+    Provider: Dr. Patel
+    

@@ -1,0 +1,13 @@
+
+    Patient ID: 53344dd2
+    Date of Birth: 1967-12-27
+    Date of Visit: 2026-05-14
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Metformin 10mg daily.
+    
+    Provider: Dr. Ali
+    

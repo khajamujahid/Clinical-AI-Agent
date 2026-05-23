@@ -1,0 +1,13 @@
+
+    Patient ID: 7b01a73d
+    Date of Birth: 1988-10-14
+    Date of Visit: 2026-04-18
+    
+    Chief Complaint: Patient presents with ongoing management of Asthma.
+    
+    Assessment & Plan:
+    1. Asthma: Continue current care plan.
+    2. Prescriptions: Refill Lisinopril 10mg daily.
+    
+    Provider: Dr. Berry
+    

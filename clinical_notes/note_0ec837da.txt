@@ -1,0 +1,13 @@
+
+    Patient ID: 0ec837da
+    Date of Birth: 1963-04-27
+    Date of Visit: 2026-02-03
+    
+    Chief Complaint: Patient presents with ongoing management of Type 2 Diabetes.
+    
+    Assessment & Plan:
+    1. Type 2 Diabetes: Continue current care plan.
+    2. Prescriptions: Refill Ibuprofen 10mg daily.
+    
+    Provider: Dr. Kramer
+    

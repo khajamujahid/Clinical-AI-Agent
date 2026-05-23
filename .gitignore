@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+.env
+
+# Databases
+chroma_db/
+
+# Next.js / Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+npm-debug.log*
+.DS_Store

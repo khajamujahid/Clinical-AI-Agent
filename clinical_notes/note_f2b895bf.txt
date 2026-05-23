@@ -1,0 +1,13 @@
+
+    Patient ID: f2b895bf
+    Date of Birth: 1935-10-02
+    Date of Visit: 2026-01-19
+    
+    Chief Complaint: Patient presents with ongoing management of Type 2 Diabetes.
+    
+    Assessment & Plan:
+    1. Type 2 Diabetes: Continue current care plan.
+    2. Prescriptions: Refill Amlodipine 10mg daily.
+    
+    Provider: Dr. Cisneros
+    

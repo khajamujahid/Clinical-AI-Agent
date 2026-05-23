@@ -1,0 +1,13 @@
+
+    Patient ID: 3e4cf53b
+    Date of Birth: 1969-08-28
+    Date of Visit: 2026-03-09
+    
+    Chief Complaint: Patient presents with ongoing management of Atrial Fibrillation.
+    
+    Assessment & Plan:
+    1. Atrial Fibrillation: Continue current care plan.
+    2. Prescriptions: Refill Metformin 10mg daily.
+    
+    Provider: Dr. Greene
+    

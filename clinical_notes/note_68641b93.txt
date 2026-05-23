@@ -1,0 +1,13 @@
+
+    Patient ID: 68641b93
+    Date of Birth: 1971-05-04
+    Date of Visit: 2026-04-15
+    
+    Chief Complaint: Patient presents with ongoing management of Osteoarthritis.
+    
+    Assessment & Plan:
+    1. Osteoarthritis: Continue current care plan.
+    2. Prescriptions: Refill Ibuprofen 10mg daily.
+    
+    Provider: Dr. Porter
+    

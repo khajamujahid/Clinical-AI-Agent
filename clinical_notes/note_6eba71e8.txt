@@ -1,0 +1,13 @@
+
+    Patient ID: 6eba71e8
+    Date of Birth: 1944-10-25
+    Date of Visit: 2026-02-12
+    
+    Chief Complaint: Patient presents with ongoing management of Type 2 Diabetes.
+    
+    Assessment & Plan:
+    1. Type 2 Diabetes: Continue current care plan.
+    2. Prescriptions: Refill Metformin 10mg daily.
+    
+    Provider: Dr. Williams
+    

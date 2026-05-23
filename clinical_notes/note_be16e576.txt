@@ -1,0 +1,13 @@
+
+    Patient ID: be16e576
+    Date of Birth: 1973-11-15
+    Date of Visit: 2026-04-19
+    
+    Chief Complaint: Patient presents with ongoing management of Asthma.
+    
+    Assessment & Plan:
+    1. Asthma: Continue current care plan.
+    2. Prescriptions: Refill Metformin 10mg daily.
+    
+    Provider: Dr. Neal
+    

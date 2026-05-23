@@ -1,0 +1,13 @@
+
+    Patient ID: 87fc384c
+    Date of Birth: 1957-09-13
+    Date of Visit: 2026-02-24
+    
+    Chief Complaint: Patient presents with ongoing management of Type 2 Diabetes.
+    
+    Assessment & Plan:
+    1. Type 2 Diabetes: Continue current care plan.
+    2. Prescriptions: Refill Lisinopril 10mg daily.
+    
+    Provider: Dr. Carson
+    

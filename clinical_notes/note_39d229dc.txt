@@ -1,0 +1,13 @@
+
+    Patient ID: 39d229dc
+    Date of Birth: 1976-01-31
+    Date of Visit: 2026-03-19
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Hubbard
+    

@@ -1,0 +1,13 @@
+
+    Patient ID: bcc3cdf5
+    Date of Birth: 1971-12-21
+    Date of Visit: 2026-04-17
+    
+    Chief Complaint: Patient presents with ongoing management of Type 2 Diabetes.
+    
+    Assessment & Plan:
+    1. Type 2 Diabetes: Continue current care plan.
+    2. Prescriptions: Refill Lisinopril 10mg daily.
+    
+    Provider: Dr. Thomas
+    

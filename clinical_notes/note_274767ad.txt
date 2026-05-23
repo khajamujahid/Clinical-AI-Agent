@@ -1,0 +1,13 @@
+
+    Patient ID: 274767ad
+    Date of Birth: 1983-07-11
+    Date of Visit: 2026-02-12
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Amlodipine 10mg daily.
+    
+    Provider: Dr. Strickland
+    

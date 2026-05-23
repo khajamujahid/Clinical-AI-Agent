@@ -1,0 +1,13 @@
+
+    Patient ID: a14681e3
+    Date of Birth: 1989-04-19
+    Date of Visit: 2026-02-14
+    
+    Chief Complaint: Patient presents with ongoing management of Osteoarthritis.
+    
+    Assessment & Plan:
+    1. Osteoarthritis: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Clark
+    

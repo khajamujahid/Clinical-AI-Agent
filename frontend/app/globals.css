@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+:root {
+  background: radial-gradient(circle at top left, #163a5f 0%, transparent 35%),
+              radial-gradient(circle at bottom right, #0a1b2f 0%, transparent 35%),
+              #07111f;
+  color: white;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.chat-scroll::-webkit-scrollbar { width: 6px; }
+.chat-scroll::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.2); border-radius: 10px; }

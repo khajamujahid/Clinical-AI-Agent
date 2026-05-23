@@ -1,0 +1,13 @@
+
+    Patient ID: f3f8d8ef
+    Date of Birth: 1967-02-01
+    Date of Visit: 2026-05-06
+    
+    Chief Complaint: Patient presents with ongoing management of Atrial Fibrillation.
+    
+    Assessment & Plan:
+    1. Atrial Fibrillation: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Park
+    

@@ -1,0 +1,13 @@
+
+    Patient ID: 51826215
+    Date of Birth: 1974-10-24
+    Date of Visit: 2026-03-18
+    
+    Chief Complaint: Patient presents with ongoing management of Hypertension.
+    
+    Assessment & Plan:
+    1. Hypertension: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Hill
+    

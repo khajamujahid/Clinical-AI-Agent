@@ -1,0 +1,13 @@
+
+    Patient ID: a4f36b2f
+    Date of Birth: 1980-06-24
+    Date of Visit: 2026-05-03
+    
+    Chief Complaint: Patient presents with ongoing management of Asthma.
+    
+    Assessment & Plan:
+    1. Asthma: Continue current care plan.
+    2. Prescriptions: Refill Ibuprofen 10mg daily.
+    
+    Provider: Dr. Hunt
+    

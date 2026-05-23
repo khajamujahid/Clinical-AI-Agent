@@ -1,0 +1,13 @@
+
+    Patient ID: 920063d1
+    Date of Birth: 1962-05-21
+    Date of Visit: 2026-03-28
+    
+    Chief Complaint: Patient presents with ongoing management of Asthma.
+    
+    Assessment & Plan:
+    1. Asthma: Continue current care plan.
+    2. Prescriptions: Refill Albuterol 10mg daily.
+    
+    Provider: Dr. Diaz
+    
